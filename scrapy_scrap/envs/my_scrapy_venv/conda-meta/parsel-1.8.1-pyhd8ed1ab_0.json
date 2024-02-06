@@ -1,0 +1,81 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "cssselect >=0.9",
+    "jmespath",
+    "lxml",
+    "packaging",
+    "python >=3.7",
+    "w3lib >=1.19.0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Dmytro\\anaconda3\\pkgs\\parsel-1.8.1-pyhd8ed1ab_0",
+  "files": [
+    "Lib/site-packages/parsel-1.8.1.dist-info/INSTALLER",
+    "Lib/site-packages/parsel-1.8.1.dist-info/LICENSE",
+    "Lib/site-packages/parsel-1.8.1.dist-info/METADATA",
+    "Lib/site-packages/parsel-1.8.1.dist-info/RECORD",
+    "Lib/site-packages/parsel-1.8.1.dist-info/REQUESTED",
+    "Lib/site-packages/parsel-1.8.1.dist-info/WHEEL",
+    "Lib/site-packages/parsel-1.8.1.dist-info/direct_url.json",
+    "Lib/site-packages/parsel-1.8.1.dist-info/top_level.txt",
+    "Lib/site-packages/parsel/__init__.py",
+    "Lib/site-packages/parsel/csstranslator.py",
+    "Lib/site-packages/parsel/py.typed",
+    "Lib/site-packages/parsel/selector.py",
+    "Lib/site-packages/parsel/utils.py",
+    "Lib/site-packages/parsel/xpathfuncs.py",
+    ".nonadmin",
+    "Lib/site-packages/parsel/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/parsel/__pycache__/csstranslator.cpython-311.pyc",
+    "Lib/site-packages/parsel/__pycache__/selector.cpython-311.pyc",
+    "Lib/site-packages/parsel/__pycache__/utils.cpython-311.pyc",
+    "Lib/site-packages/parsel/__pycache__/xpathfuncs.cpython-311.pyc"
+  ],
+  "fn": "parsel-1.8.1-pyhd8ed1ab_0.conda",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\Dmytro\\anaconda3\\pkgs\\parsel-1.8.1-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "dcf4e6ec231c3a07b8a55d4130ff7a26",
+  "name": "parsel",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\Dmytro\\anaconda3\\pkgs\\parsel-1.8.1-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/parsel/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/parsel/__pycache__/csstranslator.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/parsel/__pycache__/selector.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/parsel/__pycache__/utils.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/parsel/__pycache__/xpathfuncs.cpython-311.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "b109fc93ca898711e820a303d0f2411ac2132e7c1c1890a18981b188de04edbd",
+  "size": 21219,
+  "subdir": "noarch",
+  "timestamp": 1681832374950,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/parsel-1.8.1-pyhd8ed1ab_0.conda",
+  "version": "1.8.1"
+}

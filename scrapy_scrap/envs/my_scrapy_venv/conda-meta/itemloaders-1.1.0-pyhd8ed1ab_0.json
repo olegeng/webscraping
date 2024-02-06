@@ -1,0 +1,73 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "itemadapter >=0.1.0",
+    "jmespath >=0.9.5",
+    "parsel >=1.5.0",
+    "python >=3.5",
+    "w3lib >=1.17.0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Dmytro\\anaconda3\\pkgs\\itemloaders-1.1.0-pyhd8ed1ab_0",
+  "files": [
+    "Lib/site-packages/itemloaders-1.1.0.dist-info/INSTALLER",
+    "Lib/site-packages/itemloaders-1.1.0.dist-info/LICENSE",
+    "Lib/site-packages/itemloaders-1.1.0.dist-info/METADATA",
+    "Lib/site-packages/itemloaders-1.1.0.dist-info/RECORD",
+    "Lib/site-packages/itemloaders-1.1.0.dist-info/REQUESTED",
+    "Lib/site-packages/itemloaders-1.1.0.dist-info/WHEEL",
+    "Lib/site-packages/itemloaders-1.1.0.dist-info/direct_url.json",
+    "Lib/site-packages/itemloaders-1.1.0.dist-info/top_level.txt",
+    "Lib/site-packages/itemloaders/__init__.py",
+    "Lib/site-packages/itemloaders/common.py",
+    "Lib/site-packages/itemloaders/processors.py",
+    "Lib/site-packages/itemloaders/utils.py",
+    ".nonadmin",
+    "Lib/site-packages/itemloaders/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/itemloaders/__pycache__/common.cpython-311.pyc",
+    "Lib/site-packages/itemloaders/__pycache__/processors.cpython-311.pyc",
+    "Lib/site-packages/itemloaders/__pycache__/utils.cpython-311.pyc"
+  ],
+  "fn": "itemloaders-1.1.0-pyhd8ed1ab_0.conda",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\Dmytro\\anaconda3\\pkgs\\itemloaders-1.1.0-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "8dae387115db9fd0728284f76ead8f0c",
+  "name": "itemloaders",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\Dmytro\\anaconda3\\pkgs\\itemloaders-1.1.0-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/itemloaders/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/itemloaders/__pycache__/common.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/itemloaders/__pycache__/processors.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/itemloaders/__pycache__/utils.cpython-311.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "6d9ab37b34dacc64e4f7e906493380522ed3cd00a998b70ac9ab22c64bc0a869",
+  "size": 16337,
+  "subdir": "noarch",
+  "timestamp": 1682077354147,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/itemloaders-1.1.0-pyhd8ed1ab_0.conda",
+  "version": "1.1.0"
+}

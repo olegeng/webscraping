@@ -1,0 +1,54 @@
+{
+  "build": "py311h2bbff1b_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "cffi >=1.1",
+    "pip",
+    "python >=3.11,<3.12.0a0",
+    "six >=1.4.1",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Dmytro\\anaconda3\\pkgs\\bcrypt-3.2.0-py311h2bbff1b_1",
+  "files": [
+    "Lib/site-packages/bcrypt-3.2.0.dist-info/INSTALLER",
+    "Lib/site-packages/bcrypt-3.2.0.dist-info/LICENSE",
+    "Lib/site-packages/bcrypt-3.2.0.dist-info/METADATA",
+    "Lib/site-packages/bcrypt-3.2.0.dist-info/RECORD",
+    "Lib/site-packages/bcrypt-3.2.0.dist-info/REQUESTED",
+    "Lib/site-packages/bcrypt-3.2.0.dist-info/WHEEL",
+    "Lib/site-packages/bcrypt-3.2.0.dist-info/direct_url.json",
+    "Lib/site-packages/bcrypt-3.2.0.dist-info/top_level.txt",
+    "Lib/site-packages/bcrypt/__about__.py",
+    "Lib/site-packages/bcrypt/__init__.py",
+    "Lib/site-packages/bcrypt/__pycache__/__about__.cpython-311.pyc",
+    "Lib/site-packages/bcrypt/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/bcrypt/_bcrypt.pyd",
+    "Lib/site-packages/bcrypt/py.typed",
+    ".nonadmin"
+  ],
+  "fn": "bcrypt-3.2.0-py311h2bbff1b_1.conda",
+  "legacy_bz2_md5": "557b004244548dc5de54b53c63ba1e21",
+  "license": "Apache-2.0",
+  "license_family": "Apache",
+  "link": {
+    "source": "C:\\Users\\Dmytro\\anaconda3\\pkgs\\bcrypt-3.2.0-py311h2bbff1b_1",
+    "type": 1
+  },
+  "md5": "3ad1d5a3937c7f1cc37bc1911259ef51",
+  "name": "bcrypt",
+  "package_tarball_full_path": "C:\\Users\\Dmytro\\anaconda3\\pkgs\\bcrypt-3.2.0-py311h2bbff1b_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "9cddfa5a001e06b2b95b6fe4bc67dad574c6266b178db5b17f37d34db5b920c5",
+  "size": 39104,
+  "subdir": "win-64",
+  "timestamp": 1676435230746,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/bcrypt-3.2.0-py311h2bbff1b_1.conda",
+  "version": "3.2.0"
+}

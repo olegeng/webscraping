@@ -1,0 +1,41 @@
+{
+  "build": "h8ffe710_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "vc >=14.1,<15",
+    "vs2015_runtime >=14.16.27033"
+  ],
+  "extracted_package_dir": "C:\\Users\\Dmytro\\anaconda3\\pkgs\\libiconv-1.17-h8ffe710_0",
+  "files": [
+    "Library/bin/charset.dll",
+    "Library/bin/iconv.dll",
+    "Library/include/iconv.h",
+    "Library/include/libcharset.h",
+    "Library/include/localcharset.h",
+    "Library/lib/charset.lib",
+    "Library/lib/iconv.lib",
+    ".nonadmin"
+  ],
+  "fn": "libiconv-1.17-h8ffe710_0.tar.bz2",
+  "license": "GPL and LGPL",
+  "link": {
+    "source": "C:\\Users\\Dmytro\\anaconda3\\pkgs\\libiconv-1.17-h8ffe710_0",
+    "type": 1
+  },
+  "md5": "050119977a86e4856f0416e2edcf81bb",
+  "name": "libiconv",
+  "package_tarball_full_path": "C:\\Users\\Dmytro\\anaconda3\\pkgs\\libiconv-1.17-h8ffe710_0.tar.bz2",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "657c2a992c896475021a25faebd9ccfaa149c5d70c7dc824d4069784b686cea1",
+  "size": 714518,
+  "subdir": "win-64",
+  "timestamp": 1652702326553,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/libiconv-1.17-h8ffe710_0.tar.bz2",
+  "version": "1.17"
+}

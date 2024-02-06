@@ -1,0 +1,46 @@
+{
+  "build": "py311h2bbff1b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.11,<3.12.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Dmytro\\anaconda3\\pkgs\\twisted-iocpsupport-1.0.2-py311h2bbff1b_0",
+  "files": [
+    "Lib/site-packages/twisted_iocpsupport-1.0.2.dist-info/INSTALLER",
+    "Lib/site-packages/twisted_iocpsupport-1.0.2.dist-info/LICENSE",
+    "Lib/site-packages/twisted_iocpsupport-1.0.2.dist-info/METADATA",
+    "Lib/site-packages/twisted_iocpsupport-1.0.2.dist-info/RECORD",
+    "Lib/site-packages/twisted_iocpsupport-1.0.2.dist-info/REQUESTED",
+    "Lib/site-packages/twisted_iocpsupport-1.0.2.dist-info/WHEEL",
+    "Lib/site-packages/twisted_iocpsupport-1.0.2.dist-info/direct_url.json",
+    "Lib/site-packages/twisted_iocpsupport-1.0.2.dist-info/top_level.txt",
+    "Lib/site-packages/twisted_iocpsupport/iocpsupport.cp311-win_amd64.pyd",
+    ".nonadmin"
+  ],
+  "fn": "twisted-iocpsupport-1.0.2-py311h2bbff1b_0.conda",
+  "legacy_bz2_md5": "817d1b04d3dd5fe806b5f05515af6a4c",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\Dmytro\\anaconda3\\pkgs\\twisted-iocpsupport-1.0.2-py311h2bbff1b_0",
+    "type": 1
+  },
+  "md5": "712347d8695ba451b6e63c5df158a92c",
+  "name": "twisted-iocpsupport",
+  "package_tarball_full_path": "C:\\Users\\Dmytro\\anaconda3\\pkgs\\twisted-iocpsupport-1.0.2-py311h2bbff1b_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "0bc09a095ab17114b97e42688c3a9a807af6cff8009d9bafbf552532b77c326a",
+  "size": 41449,
+  "subdir": "win-64",
+  "timestamp": 1676447672079,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/twisted-iocpsupport-1.0.2-py311h2bbff1b_0.conda",
+  "version": "1.0.2"
+}

@@ -1,0 +1,64 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.7"
+  ],
+  "extracted_package_dir": "C:\\Users\\Dmytro\\anaconda3\\pkgs\\certifi-2023.11.17-pyhd8ed1ab_0",
+  "files": [
+    "Lib/site-packages/certifi-2023.11.17.dist-info/INSTALLER",
+    "Lib/site-packages/certifi-2023.11.17.dist-info/LICENSE",
+    "Lib/site-packages/certifi-2023.11.17.dist-info/METADATA",
+    "Lib/site-packages/certifi-2023.11.17.dist-info/RECORD",
+    "Lib/site-packages/certifi-2023.11.17.dist-info/REQUESTED",
+    "Lib/site-packages/certifi-2023.11.17.dist-info/WHEEL",
+    "Lib/site-packages/certifi-2023.11.17.dist-info/direct_url.json",
+    "Lib/site-packages/certifi-2023.11.17.dist-info/top_level.txt",
+    "Lib/site-packages/certifi/__init__.py",
+    "Lib/site-packages/certifi/__main__.py",
+    "Lib/site-packages/certifi/cacert.pem",
+    "Lib/site-packages/certifi/core.py",
+    "Lib/site-packages/certifi/py.typed",
+    ".nonadmin",
+    "Lib/site-packages/certifi/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/certifi/__pycache__/__main__.cpython-311.pyc",
+    "Lib/site-packages/certifi/__pycache__/core.cpython-311.pyc"
+  ],
+  "fn": "certifi-2023.11.17-pyhd8ed1ab_0.conda",
+  "license": "ISC",
+  "link": {
+    "source": "C:\\Users\\Dmytro\\anaconda3\\pkgs\\certifi-2023.11.17-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "2011bcf45376341dd1d690263fdbc789",
+  "name": "certifi",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\Dmytro\\anaconda3\\pkgs\\certifi-2023.11.17-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/certifi/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/certifi/__pycache__/__main__.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/certifi/__pycache__/core.cpython-311.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "afa22b77128a812cb57bc707c297d926561bd225a3d9dd74205d87a3b2d14a96",
+  "size": 158939,
+  "subdir": "noarch",
+  "timestamp": 1700303562512,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/certifi-2023.11.17-pyhd8ed1ab_0.conda",
+  "version": "2023.11.17"
+}

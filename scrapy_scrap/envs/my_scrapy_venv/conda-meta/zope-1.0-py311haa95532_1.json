@@ -1,0 +1,36 @@
+{
+  "build": "py311haa95532_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.11,<3.12.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Dmytro\\anaconda3\\pkgs\\zope-1.0-py311haa95532_1",
+  "files": [
+    "Lib/site-packages/zope/__init__.py",
+    "Lib/site-packages/zope/__pycache__/__init__.cpython-311.pyc",
+    ".nonadmin"
+  ],
+  "fn": "zope-1.0-py311haa95532_1.conda",
+  "legacy_bz2_md5": "c1aa2635b6235592819611fe64e77064",
+  "license": "BSD",
+  "link": {
+    "source": "C:\\Users\\Dmytro\\anaconda3\\pkgs\\zope-1.0-py311haa95532_1",
+    "type": 1
+  },
+  "md5": "f5ca29102eac3a1d454047f57aa408f4",
+  "name": "zope",
+  "package_tarball_full_path": "C:\\Users\\Dmytro\\anaconda3\\pkgs\\zope-1.0-py311haa95532_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "dbb60a2100c3639a1ebd88139c3045ae53bba1b491f7cc75ffd10d2bb21e06ff",
+  "size": 4928,
+  "subdir": "win-64",
+  "timestamp": 1676434930597,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/zope-1.0-py311haa95532_1.conda",
+  "version": "1.0"
+}

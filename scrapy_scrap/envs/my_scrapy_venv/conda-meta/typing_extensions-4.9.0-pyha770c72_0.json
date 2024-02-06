@@ -1,0 +1,50 @@
+{
+  "build": "pyha770c72_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.8"
+  ],
+  "extracted_package_dir": "C:\\Users\\Dmytro\\anaconda3\\pkgs\\typing_extensions-4.9.0-pyha770c72_0",
+  "files": [
+    "Lib/site-packages/typing_extensions-4.9.0.dist-info/INSTALLER",
+    "Lib/site-packages/typing_extensions-4.9.0.dist-info/LICENSE",
+    "Lib/site-packages/typing_extensions-4.9.0.dist-info/METADATA",
+    "Lib/site-packages/typing_extensions-4.9.0.dist-info/RECORD",
+    "Lib/site-packages/typing_extensions-4.9.0.dist-info/REQUESTED",
+    "Lib/site-packages/typing_extensions-4.9.0.dist-info/WHEEL",
+    "Lib/site-packages/typing_extensions-4.9.0.dist-info/direct_url.json",
+    "Lib/site-packages/typing_extensions.py",
+    ".nonadmin",
+    "Lib/site-packages/__pycache__/typing_extensions.cpython-311.pyc"
+  ],
+  "fn": "typing_extensions-4.9.0-pyha770c72_0.conda",
+  "license": "PSF-2.0",
+  "license_family": "PSF",
+  "link": {
+    "source": "C:\\Users\\Dmytro\\anaconda3\\pkgs\\typing_extensions-4.9.0-pyha770c72_0",
+    "type": 1
+  },
+  "md5": "a92a6440c3fe7052d63244f3aba2a4a7",
+  "name": "typing_extensions",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\Dmytro\\anaconda3\\pkgs\\typing_extensions-4.9.0-pyha770c72_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/__pycache__/typing_extensions.cpython-311.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "f3c5be8673bfd905c4665efcb27fa50192f24f84fa8eff2f19cba5d09753d905",
+  "size": 36058,
+  "subdir": "noarch",
+  "timestamp": 1702176292645,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/typing_extensions-4.9.0-pyha770c72_0.conda",
+  "version": "4.9.0"
+}

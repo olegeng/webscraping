@@ -1,0 +1,88 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "cryptography >=41.0.5,<42",
+    "python >=3.7"
+  ],
+  "extracted_package_dir": "C:\\Users\\Dmytro\\anaconda3\\pkgs\\pyopenssl-23.3.0-pyhd8ed1ab_0",
+  "files": [
+    "Lib/site-packages/OpenSSL/SSL.py",
+    "Lib/site-packages/OpenSSL/__init__.py",
+    "Lib/site-packages/OpenSSL/_util.py",
+    "Lib/site-packages/OpenSSL/crypto.py",
+    "Lib/site-packages/OpenSSL/debug.py",
+    "Lib/site-packages/OpenSSL/rand.py",
+    "Lib/site-packages/OpenSSL/version.py",
+    "Lib/site-packages/pyOpenSSL-23.3.0.dist-info/INSTALLER",
+    "Lib/site-packages/pyOpenSSL-23.3.0.dist-info/LICENSE",
+    "Lib/site-packages/pyOpenSSL-23.3.0.dist-info/METADATA",
+    "Lib/site-packages/pyOpenSSL-23.3.0.dist-info/RECORD",
+    "Lib/site-packages/pyOpenSSL-23.3.0.dist-info/REQUESTED",
+    "Lib/site-packages/pyOpenSSL-23.3.0.dist-info/WHEEL",
+    "Lib/site-packages/pyOpenSSL-23.3.0.dist-info/direct_url.json",
+    "Lib/site-packages/pyOpenSSL-23.3.0.dist-info/top_level.txt",
+    ".nonadmin",
+    "Lib/site-packages/OpenSSL/__pycache__/SSL.cpython-311.pyc",
+    "Lib/site-packages/OpenSSL/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/OpenSSL/__pycache__/_util.cpython-311.pyc",
+    "Lib/site-packages/OpenSSL/__pycache__/crypto.cpython-311.pyc",
+    "Lib/site-packages/OpenSSL/__pycache__/debug.cpython-311.pyc",
+    "Lib/site-packages/OpenSSL/__pycache__/rand.cpython-311.pyc",
+    "Lib/site-packages/OpenSSL/__pycache__/version.cpython-311.pyc"
+  ],
+  "fn": "pyopenssl-23.3.0-pyhd8ed1ab_0.conda",
+  "license": "Apache-2.0",
+  "license_family": "Apache",
+  "link": {
+    "source": "C:\\Users\\Dmytro\\anaconda3\\pkgs\\pyopenssl-23.3.0-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "7819533e674dbbc51468f3228b9b1bb6",
+  "name": "pyopenssl",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\Dmytro\\anaconda3\\pkgs\\pyopenssl-23.3.0-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/OpenSSL/__pycache__/SSL.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/OpenSSL/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/OpenSSL/__pycache__/_util.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/OpenSSL/__pycache__/crypto.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/OpenSSL/__pycache__/debug.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/OpenSSL/__pycache__/rand.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/OpenSSL/__pycache__/version.cpython-311.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "f7e04c4a49b1593140231d70801e2204e314e26d7141bfbdc8089d04114c0010",
+  "size": 127052,
+  "subdir": "noarch",
+  "timestamp": 1698795615331,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/pyopenssl-23.3.0-pyhd8ed1ab_0.conda",
+  "version": "23.3.0"
+}
